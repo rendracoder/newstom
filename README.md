@@ -1,0 +1,2 @@
+# newstom
+auto read
